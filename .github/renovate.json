@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "github>dominiquecomte/.github"
+  ],
+  "automerge": true,
+  "automergeType": "pr",
+  "automergeStrategy": "squash"
+}
